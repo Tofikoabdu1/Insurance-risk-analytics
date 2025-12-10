@@ -1,3 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Data (raw and processed)
+data/raw/
+data/processed/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
